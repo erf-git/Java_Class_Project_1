@@ -1,0 +1,7 @@
+:= x 1
+:= x + x x
+:= x * x x
+:= x - 2 _ x
+# x
+:= x / x 2
+:= leicester % + 19 x
